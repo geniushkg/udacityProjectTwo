@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="sort_order">Filter</string>
+    <string name="tv_trailer">Trailers</string>
+    <string name="tv_plot">Plot</string>
+    <string name="tv_reviews">Reviews</string>
+    <string name="image_poster">Image Poster</string>
+    <string name="tumb_image_rating">Tumb Image Rating</string>
+</resources>
