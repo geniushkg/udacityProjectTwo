@@ -8,3 +8,5 @@ Popular Movies android app for project submission in android nanodegree program 
 <li>Content Providers</li>
 <li>MVP Architecture Implmentation</li>
 </ol>
+
+App uses The Movie Database Api ,please place the key in gradle file accordingly
